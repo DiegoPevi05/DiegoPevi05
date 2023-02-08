@@ -3,26 +3,19 @@
 I am a Mechanical Engineer with passion for develope software and interesting in build clean code, combine the IoT with practical applications and full stack web developer with knowledge on many lenguages and DevOps tools, encourage for learning new things.
 
 **My Reseach Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+- Machine Learning
+- Data Processing 
+- Develope new Software for pratical uses
+- Mobile Developing
 
  **I am open to**:
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- any request of web desing,
+- any colaboration job,
+- any request for reviewing web desings or consulting.
 
 **Recent Update**:
-- **August 2022**: Our paper _Anomaly Detection in Healthcare_ has been accepted for publication at the 11th International Conference on Health Information Science 2022 (HIS 2022).
-- **July 2022**: Our paper _sGrid++ : Revising Simple Grid based Density Estimator for Mining Outlying Aspect_ has been accepted for publication at the 23rd International Conference on Web Information Systems Engineering 2022 (WISE 2022).
-- **April 2022**: Our paper _A New Dimensionality-Unbiased Score for Efficient and Effective Outlying Aspect Mining_ accepted for the publication by the Data Science and Engineering Journal (Springer).[[Paper]](https://link.springer.com/article/10.1007/s41019-022-00185-5)
-
-**Service to research comunity**:
-- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
+- **January 2023**: Currently working on a new web desing in React, while i am currently working on an IoT Project for a company of Telecomunications.
 
 ## Skills:
 
@@ -80,10 +73,10 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/diegopenavicente/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/diegopea05/)
 </p>
-
+<!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+-->
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)

@@ -5,7 +5,7 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 **My Reseach Interest**:
 - Machine Learning
 - Data Processing 
-- Develope new Software for pratical uses
+- Develope new Software for practical uses
 - Mobile Developing
 
  **I am open to**:
@@ -73,15 +73,13 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/diegopenavicente/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/diegopea05/)
 </p>
-<!--
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/DiegoPevi05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diego's github stats" /></a> | <a href="https://github.com/DiegoPevi05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPevi05&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
--->
 <!-- 
 ----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[<img src="https://github-profile-trophy.vercel.app/?username=DiegoPevi05&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/DiegoPevi05/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoPevi05&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 

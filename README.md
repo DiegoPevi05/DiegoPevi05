@@ -73,8 +73,7 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/diegopenavicente/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/diegopea05/)
 </p>
-| <a href="https://github.com/DiegoPevi05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diego's github stats" /></a> | <a href="https://github.com/DiegoPevi05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPevi05&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/DiegoPevi05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diego's github stats" /></a> | <a href="https://github.com/DiegoPevi05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPevi05&layout=compact&theme=buefy&hide_border=true" /></a>
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=DiegoPevi05&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)

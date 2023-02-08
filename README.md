@@ -39,7 +39,7 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 
 #### Web Frameworks & Tools
 
-![React & React Native](https://img.shields.io/badge/React_React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white)&nbsp;
+![React & React Native](https://img.shields.io/badge/React_&_React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flaskn&logoColor=white)&nbsp;

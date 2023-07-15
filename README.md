@@ -3,10 +3,10 @@
 I am a Mechanical Engineer with passion for develope software and interesting in build clean code, combine the IoT with practical applications and full stack web developer with knowledge on many lenguages and DevOps tools, encourage for learning new things.
 
 **My Reseach Interest**:
-- Machine Learning
 - Data Processing 
 - Develope new Software for practical uses
 - Mobile Developing
+- Machine Learning
 
  **I am open to**:
 

@@ -44,6 +44,7 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 
 ![MySQL](https://img.shields.io/badge/mysql-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 ![Convergent Mediation](https://img.shields.io/badge/Convergent_Mediation-B366F6?style=for-the-badge)&nbsp;

@@ -4,7 +4,7 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 
 **My Reseach Interest**:
 - Data Processing 
-- Develope Software as a service (Sass)
+- Develope Software as a service (SasS)
 - Mobile Developing
 - Machine Learning
 

@@ -34,9 +34,9 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 #### Web Frameworks & Tools
 
 ![React & React Native](https://img.shields.io/badge/React_&_React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flaskn&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
 

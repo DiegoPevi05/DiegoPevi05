@@ -56,7 +56,7 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 ![Lens](https://img.shields.io/badge/lens-3D90CE?style=for-the-badge&logo=lens&logoColor=white)&nbsp;
-![Microsoft SQL Server](https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+![Microsoft&nbspSQL&nbspServer](https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 
 
 #### IDEs

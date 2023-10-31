@@ -15,7 +15,8 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 - any request for reviewing web desings or consulting.
 
 **Recent Update**:
-- **August 2023**: Currently working on some projects and SasS of [innovativity](https://it.innovativity.io/) a company of developing sofware. 
+- **August 2023**: Currently working on some projects and SasS of [innovativity](https://it.innovativity.io/) a company of developing sofware.
+- **September 2023**: Currently working on an IoT Project for a company of Telecomunications and still working on some task in [innovativity](https://it.innovativity.io/).
 - **October 2023**: Currently working on a new web desing in React with typescript, while i am currently working on an IoT Project for a company of Telecomunications and still working on some task in [innovativity](https://it.innovativity.io/).
 
 

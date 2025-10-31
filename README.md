@@ -16,9 +16,19 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 
 ## 🕓 Recent Update
 
-- **2020 – 2025**  
-  Worked at [**Gelly Consulting**](https://www.gellyconsulting.com/), where I developed advanced engineering tools, including a **Catenary Calculator** — a 3D web application built with **Three.js** for simulating and calculating **railway overhead contact line systems** (droppers, cantilevers, and mechanical tensioning).  
-  Focused on combining physics-based modeling with modern web technologies for precision rail design and analysis.
+- **Sep 2020 – Apr 2025 · 4 yrs 8 mos**  
+  **BRIM Consultant – Brazil**  
+  Worked as a **Billing and Revenue Innovation Management (BRIM)** Consultant, leading the implementation of SAP-based billing solutions.  
+  Key responsibilities and achievements included:  
+  - Implemented **billing process workflows** using **SAP Mediation Zone**, leveraging **SAP HANA**, **Oracle SQL Developer**, and **Microsoft SQL Server Management Studio**.  
+  - Managed and optimized **large-scale datasets**, applying **clean code principles** for efficient and maintainable systems.  
+  - Designed and deployed **new algorithms and structured processes**, reducing **data processing time by 75%**.  
+  - Automated **billing item extraction** through **web service integrations**, minimizing manual tasks and improving accuracy.  
+  - Authored and maintained **technical documentation** for billing workflows and integration processes.
+
+- **Early 2025**  
+  Contributed to [**Gelly Consulting**](https://www.gellyconsulting.com/), developing a **Catenary Calculator** — a 3D web application built with **Three.js** for simulating and calculating **railway overhead contact line systems**, including droppers, cantilever geometry, and mechanical tensioning.  
+  Focused on combining **physics-based modeling** with modern web technologies for **precision rail design and analysis**.
 
 - **Mid 2025 – Present**  
   Joined [**Isomorphic Software**](https://smartclient.com/) , contributing to the **SmartClient Showcase** with new **Java-based examples and connectors**, including:  

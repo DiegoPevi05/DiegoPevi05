@@ -14,10 +14,16 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 - any colaboration job,
 - any request for reviewing web desings or consulting.
 
-**Recent Update**:
-- **August 2023**: Currently working on some projects and SasS of [innovativity](https://it.innovativity.io/) a company of developing sofware.
-- **September 2023**: Currently working on an IoT Project for a company of Telecomunications and still working on some task in [innovativity](https://it.innovativity.io/).
-- **October 2023**: Currently working on a new web desing in React with typescript, while i am currently working on an IoT Project for a company of Telecomunications and still working on some task in [innovativity](https://it.innovativity.io/).
+## 🕓 Recent Update
+
+- **2020 – 2025**  
+  Worked at [**Gelly Consulting**](https://www.gellyconsulting.com/), where I developed advanced engineering tools, including a **Catenary Calculator** — a 3D web application built with **Three.js** for simulating and calculating **railway overhead contact line systems** (droppers, cantilevers, and mechanical tensioning).  
+  Focused on combining physics-based modeling with modern web technologies for precision rail design and analysis.
+
+- **Mid 2025 – Present**  
+  Joined [**Isomorphic Software**](https://smartclient.com/) , contributing to the **SmartClient Showcase** with new **Java-based examples and connectors**, including:  
+  - **Model Context Protocol (MCP)** integration (e.g., GitHub Copilot API)  
+  - **Parquet file readers** and **Delta Share integrations**  
 
 
 ## Skills:

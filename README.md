@@ -45,6 +45,42 @@ I am a Mechanical Engineer turned **Software Architect**. I design and build ful
   - **AI-assisted design**: an LLM places poles, cantilevers and spans while engineering rules are enforced in code.  
   - **Train simulation** that checks zigzag, contact wire height and pantograph contact live, plus PDF reports.
 
+## 📁 Projects (2025 – 2026)
+
+#### Products & platforms
+
+| Project | Year | What it is | Stack |
+|---|---|---|---|
+| **[PuntoCita](https://puntocita.com)** | 2026 | Multi-tenant booking & business management SaaS for service businesses, with a public API for custom front ends and a series of per-vertical video ads (nails, vets, barbershops, nutritionists) built as code with HyperFrames. | Java 21, Spring Boot, React, TypeScript, PostgreSQL, Jenkins |
+| **[OCS](https://github.com/DiegoPevi05/ocs)** | 2026 | Railway overhead contact line design platform: 2D/3D editor, C++ calculation engine, train simulation and AI-assisted design. | C++17, Java 21, Spring Boot, React, Three.js, PostgreSQL |
+| **Digital Process IT platform** | 2025 | Company platform for clients, contracts, quotes, invoices, support tickets and automated SaaS tenant provisioning. | Laravel, PHP, MySQL |
+| **Wayki** | 2026 | On-demand marketplace for home and technical services: clients post jobs, verified technicians make paid on-site quote visits, sign contracts in-app and build a reputation. | React Native (Expo), Java, Spring Boot |
+| **Catenary Calculator** ([Gelly Consulting](https://www.gellyconsulting.com/)) | 2025 | 3D web app for simulating and calculating railway overhead contact lines. The starting point for OCS. | Three.js, JavaScript |
+
+#### Custom PuntoCita front ends
+
+Brand-specific websites that run on the PuntoCita public API, so the business keeps its own design and domain while bookings, staff and payments live in the SaaS.
+
+- **[Luas Studio](https://luastudionails.com)** – nail studio site (Astro, React, Tailwind CSS v4).
+- **Nuna** – custom client app deployed on its own domain on top of the PuntoCita API.
+
+#### Client websites & e-commerce (Medialítica)
+
+Custom WordPress themes (block themes with `theme.json` brand tokens, no page builders) and Astro sites, so clients can edit their own content. Most ship through GitHub Actions to Hostinger.
+
+- **[INANNA](https://inannacheesecakes.com)** – cheesecake bakery: website, shop and admin guide for the owner.
+- **[Grupo Hanzing](https://www.grupohanzing.com/)** – corporate B2B site for a Mexican tarpaulin manufacturer (Lonas Fieraflex), with a custom product type for specs (weight, light transmission, uses, colours).
+- **Olimed** – redesign for a medical and pharmaceutical distributor: WooCommerce catalog with WhatsApp quote requests.
+- **OK Impresores** – print shop for offices and businesses, WooCommerce block theme with versioned releases.
+- **Mick** – women's footwear e-commerce, WooCommerce block theme with card and Yape payments.
+- **Cassado** – website theme maintenance, database deployments and Google Ads / Tag Manager conversion tracking fixes.
+- **Canelas** – online florist and gift shop.
+- **La Botella** and **Ledys** – product catalogs loaded from spreadsheets with their images.
+
+#### Tools
+
+- **Spanish video transcriptor** – local Python CLI using `faster-whisper` and FFmpeg to transcribe videos with timestamps.
+
 ## 🕓 Previously
 
 - **Mid 2025 · [Gelly Consulting](https://www.gellyconsulting.com/)**  

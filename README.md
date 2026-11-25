@@ -1,4 +1,4 @@
-### Hi there, I'm [Diego Peña Vicente](https://DiegoPevi05.github.io) 👋
+### Hi there, I'm [Diego Peña Vicente](https://www.linkedin.com/in/diegopenavicente/) 👋
 
 I am a Mechanical Engineer turned **Software Architect**. I design and build full-stack platforms end to end, from the database and backend APIs to 3D web interfaces and the DevOps pipeline behind them. I care about clean code, solid architecture, and software that solves real engineering and business problems.
 
@@ -121,12 +121,24 @@ Custom WordPress themes (block themes with `theme.json` brand tokens, no page bu
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)&nbsp;
+![SmartClient](https://img.shields.io/badge/SmartClient-1F5FA8?style=for-the-badge)&nbsp;
+![WebSocket STOMP](https://img.shields.io/badge/WebSocket_STOMP-010101?style=for-the-badge&logo=socketdotio&logoColor=white)&nbsp;
 
 #### Database
 
 ![MySQL](https://img.shields.io/badge/mysql-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)&nbsp;
+![Apache Parquet](https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+![Delta Sharing](https://img.shields.io/badge/Delta_Sharing-00ADD4?style=for-the-badge&logo=delta&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 ![Convergent Mediation](https://img.shields.io/badge/Convergent_Mediation-B366F6?style=for-the-badge)&nbsp;
@@ -141,6 +153,14 @@ Custom WordPress themes (block themes with `theme.json` brand tokens, no page bu
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 ![Lens](https://img.shields.io/badge/lens-3D90CE?style=for-the-badge&logo=lens&logoColor=white)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)&nbsp;
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)&nbsp;
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white)&nbsp;
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)&nbsp;
+![HyperFrames](https://img.shields.io/badge/HyperFrames-111111?style=for-the-badge)&nbsp;
 
 
 #### IDEs
@@ -157,16 +177,17 @@ Custom WordPress themes (block themes with `theme.json` brand tokens, no page bu
 <!--[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
 -->
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://diegopenavicente.com/)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.digitalprocessit.com/)
+[<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:diegopevi05@gmail.com)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/diego10azul) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/diegopenavicente/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/diegopea05/)
 </p>
-<a href="https://github.com/DiegoPevi05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diego's github stats" /></a> | <a href="https://github.com/DiegoPevi05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPevi05&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diego's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPevi05&layout=compact&theme=buefy&hide_border=true" /></a>
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=DiegoPevi05&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/DiegoPevi05/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoPevi05&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->

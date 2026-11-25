@@ -54,8 +54,6 @@ I am a Mechanical Engineer turned **Software Architect**. I design and build ful
 | **[PuntoCita](https://puntocita.com)** | 2026 | Multi-tenant booking & business management SaaS for service businesses, with a public API for custom front ends and a series of per-vertical video ads (nails, vets, barbershops, nutritionists) built as code with HyperFrames. | Java 21, Spring Boot, React, TypeScript, PostgreSQL, Jenkins |
 | **[OCS](https://github.com/DiegoPevi05/ocs)** | 2026 | Railway overhead contact line design platform: 2D/3D editor, C++ calculation engine, train simulation and AI-assisted design. | C++17, Java 21, Spring Boot, React, Three.js, PostgreSQL |
 | **Digital Process IT platform** | 2025 | Company platform for clients, contracts, quotes, invoices, support tickets and automated SaaS tenant provisioning. | Laravel, PHP, MySQL |
-| **Wayki** | 2026 | On-demand marketplace for home and technical services: clients post jobs, verified technicians make paid on-site quote visits, sign contracts in-app and build a reputation. | React Native (Expo), Java, Spring Boot |
-| **Catenary Calculator** ([Gelly Consulting](https://www.gellyconsulting.com/)) | 2025 | 3D web app for simulating and calculating railway overhead contact lines. The starting point for OCS. | Three.js, JavaScript |
 
 #### Custom PuntoCita front ends
 

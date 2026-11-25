@@ -16,10 +16,10 @@ I am a Mechanical Engineer turned **Software Architect**. I design and build ful
 ## 🚀 What I'm working on
 
 - **Mid 2025 – Present · [Isomorphic Software](https://smartclient.com/)**  
-  Working on the **SmartClient** framework, its **Showcase** and **Reify**, Isomorphic's low-code visual builder.  
+  Working on the **SmartClient** framework, its **Showcase** and **Reify**, Isomorphic's low-code visual builder, with a focus on **AI-assisted test automation**.  
   - Built new **Java-based Showcase examples and connectors**, including **Model Context Protocol (MCP)** integration (e.g., GitHub Copilot API), **Parquet file readers** and **Delta Share integrations**.  
-  - Testing **Reify** and **AUN**, reporting and verifying fixes across releases.  
-  - Building **automated tests for the SmartClient Showcase**, so examples are checked on every release.
+  - Building **AI-assisted end-to-end tests** (Playwright) for the **SmartClient Showcase** and for **Reify**, so the product is checked automatically on every release.  
+  - Contributing **framework improvements and bug fixes** found along the way, each backed by regression tests.
 
 - **2025 – Present · [Digital Process IT](https://www.digitalprocessit.com/) · Founder & Software Architect**  
   My own software company. I design, build and run its products, starting with **PuntoCita**.  

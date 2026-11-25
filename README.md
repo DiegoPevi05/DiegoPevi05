@@ -112,7 +112,10 @@ Custom WordPress themes (block themes with `theme.json` brand tokens, no page bu
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 #### Web Frameworks & Tools
 
@@ -133,6 +136,7 @@ Custom WordPress themes (block themes with `theme.json` brand tokens, no page bu
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)&nbsp;
 ![SmartClient](https://img.shields.io/badge/SmartClient-1F5FA8?style=for-the-badge)&nbsp;
 ![WebSocket STOMP](https://img.shields.io/badge/WebSocket_STOMP-010101?style=for-the-badge&logo=socketdotio&logoColor=white)&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)&nbsp;
 
 #### Database
 
@@ -166,6 +170,11 @@ Custom WordPress themes (block themes with `theme.json` brand tokens, no page bu
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white)&nbsp;
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)&nbsp;
 ![HyperFrames](https://img.shields.io/badge/HyperFrames-111111?style=for-the-badge)&nbsp;
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)&nbsp;
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)&nbsp;
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)&nbsp;
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)&nbsp;
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge)&nbsp;
 
 
 #### IDEs
@@ -189,14 +198,13 @@ Custom WordPress themes (block themes with `theme.json` brand tokens, no page bu
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/diegopenavicente/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/diegopea05/)
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diego's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPevi05&layout=compact&theme=buefy&hide_border=true" /></a>
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=DiegoPevi05&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=DiegoPevi05&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoPevi05&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+<!-- Stats updated by hand (last update: 2026-11-25). Commits = last 12 months on default branches, including private and org repos. -->
+<p align="left">
+<img src="https://img.shields.io/badge/commits_(last_year)-654-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/repositories-54-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pull_requests-72-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/on_GitHub_since-2021-black?style=for-the-badge" />
+</p>
 
 <!--
 **DiegoPevi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

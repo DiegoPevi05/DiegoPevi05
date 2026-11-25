@@ -1,40 +1,62 @@
 ### Hi there, I'm [Diego Peña Vicente](https://DiegoPevi05.github.io) 👋
 
-I am a Mechanical Engineer with passion for develope software and interesting in build clean code, combine the IoT with practical applications and full stack web developer with knowledge on many lenguages and DevOps tools, encourage for learning new things.
+I am a Mechanical Engineer turned **Software Architect**. I design and build full-stack platforms end to end, from the database and backend APIs to 3D web interfaces and the DevOps pipeline behind them. I care about clean code, solid architecture, and software that solves real engineering and business problems.
 
-**My Reseach Interest**:
-- Data Processing 
-- Develope Software as a service (SasS)
-- Mobile Developing
-- Machine Learning
+**What I'm into**:
+- Software as a Service (SaaS) and multi-tenant architecture
+- Engineering software and 3D simulation on the web
+- AI-assisted tooling (LLMs, MCP)
+- Data processing and integrations
 
- **I am open to**:
+**I am open to**:
+- SaaS and web platform projects
+- Collaborations on engineering and simulation software
+- Architecture reviews and consulting
 
-- any request of web desing,
-- any colaboration job,
-- any request for reviewing web desings or consulting.
+## 🚀 What I'm working on
 
-## 🕓 Recent Update
+- **Mid 2025 – Present · [Isomorphic Software](https://smartclient.com/)**  
+  Working on the **SmartClient** framework, its **Showcase** and **Reify**, Isomorphic's low-code visual builder.  
+  - Built new **Java-based Showcase examples and connectors**, including **Model Context Protocol (MCP)** integration (e.g., GitHub Copilot API), **Parquet file readers** and **Delta Share integrations**.  
+  - Testing **Reify** and **AUN**, reporting and verifying fixes across releases.  
+  - Building **automated tests for the SmartClient Showcase**, so examples are checked on every release.
 
-- **Sep 2020 – Apr 2025 · 4 yrs 8 mos**  
-  **BRIM Consultant – Brazil**  
-  Worked as a **Billing and Revenue Innovation Management (BRIM)** Consultant, leading the implementation of SAP-based billing solutions.  
-  Key responsibilities and achievements included:  
-  - Implemented **billing process workflows** using **SAP Mediation Zone**, leveraging **SAP HANA**, **Oracle SQL Developer**, and **Microsoft SQL Server Management Studio**.  
+- **2025 – Present · Medialítica (Digital Process IT) · Lead Developer & Software Architect**  
+  Main developer and architect of the company's software products and client platforms.  
+  - Designed and built the **company platform** (Laravel): clients, contracts, quotes, invoices, billing follow-up and support tickets.  
+  - Built **automated tenant provisioning** for SaaS customers: signup requests, trial plans, test vs. production environments, and per-tenant SMTP and seeding.  
+  - Delivered websites and web apps for client brands across healthcare, beauty, tourism and consulting.
+
+- **2026 – Present · [PuntoCita](https://puntocita.com) · SaaS (Founder & Architect)**  
+  A **multi-tenant booking and business management SaaS** for service businesses: salons, nail studios, barbershops, dental clinics, podiatry, nutrition and therapy.  
+  - Every business gets its own site (`yourbusiness.puntocita.com`) or connects its own domain, plus an admin panel to run the business.  
+  - Online booking 24/7, staff schedules, multi-location agendas, automatic reminders and loyalty.  
+  - Online payments and deposits through **Culqi** (cards, Yape, wallets).  
+  - Vertical features such as a **digital odontogram** for dentists and consent forms for clinics.  
+  - Public API so clients can run a fully custom front end on their own hosting.  
+  - Stack: **Java 21 + Spring Boot**, **React + TypeScript (Vite)**, **PostgreSQL**, monorepo with shared types and i18n, Nginx and Jenkins CI/CD.  
+  - Live demos: [barbershop](https://barbershop.puntocita.com/) · [sonrisafeliz](https://sonrisafeliz.puntocita.com/) · [podologia](https://podologia.puntocita.com/) · [superpet](https://superpet.puntocita.com/)
+
+- **2026 – Present · [OCS – Overhead Contact System Design Platform](https://github.com/DiegoPevi05/ocs) · Personal open-source project**  
+  An engineering platform for **designing, calculating and simulating railway overhead contact lines** (catenary systems). [Watch the demo ▶](https://www.youtube.com/watch?v=OpfH7FzPALA)  
+  - **2D/3D visual editor** (React, TypeScript, **Three.js**) for tracks, foundations, poles, cantilevers and spans, with DXF import.  
+  - **C++17 calculation engine** that solves cantilever geometry, catenary physics, dropper lengths and fabrication cut lists, plus a **truss solver** for stress and utilization.  
+  - **Real-time streaming** of results over STOMP/WebSocket from a **Java 21 / Spring Boot** API backed by PostgreSQL.  
+  - **AI-assisted design**: an LLM places poles, cantilevers and spans while engineering rules are enforced in code.  
+  - **Train simulation** that checks zigzag, contact wire height and pantograph contact live, plus PDF reports.
+
+## 🕓 Previously
+
+- **Mid 2025 · [Gelly Consulting](https://www.gellyconsulting.com/)**  
+  Developed a **Catenary Calculator**, a 3D web application built with **Three.js** for simulating and calculating **railway overhead contact line systems**, including droppers, cantilever geometry and mechanical tensioning. This work was the starting point for OCS.
+
+- **Sep 2020 – Apr 2025 · 4 yrs 8 mos · BRIM Consultant – Brazil**  
+  Worked as a **Billing and Revenue Innovation Management (BRIM)** Consultant, implementing SAP-based billing solutions.  
+  - Implemented **billing process workflows** using **SAP Convergent Mediation (Mediation Zone)**, with **SAP HANA**, **Oracle SQL Developer** and **Microsoft SQL Server**.  
   - Managed and optimized **large-scale datasets**, applying **clean code principles** for efficient and maintainable systems.  
-  - Designed and deployed **new algorithms and structured processes**, reducing **data processing time by 75%**.  
-  - Automated **billing item extraction** through **web service integrations**, minimizing manual tasks and improving accuracy.  
-  - Authored and maintained **technical documentation** for billing workflows and integration processes.
-
-- **Early 2025**  
-  Contributed to [**Gelly Consulting**](https://www.gellyconsulting.com/), developing a **Catenary Calculator** — a 3D web application built with **Three.js** for simulating and calculating **railway overhead contact line systems**, including droppers, cantilever geometry, and mechanical tensioning.  
-  Focused on combining **physics-based modeling** with modern web technologies for **precision rail design and analysis**.
-
-- **Mid 2025 – Present**  
-  Joined [**Isomorphic Software**](https://smartclient.com/) , contributing to the **SmartClient Showcase** with new **Java-based examples and connectors**, including:  
-  - **Model Context Protocol (MCP)** integration (e.g., GitHub Copilot API)  
-  - **Parquet file readers** and **Delta Share integrations**  
-
+  - Designed new algorithms and processes that cut **data processing time by 75%**.  
+  - Automated **billing item extraction** through **web service integrations**, reducing manual work and errors.  
+  - Wrote and maintained **technical documentation** for billing workflows and integrations.
 
 ## Skills:
 
@@ -45,6 +67,8 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -58,6 +82,9 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 
 #### Database
 
@@ -69,6 +96,8 @@ I am a Mechanical Engineer with passion for develope software and interesting in
 ![Convergent Mediation](https://img.shields.io/badge/Convergent_Mediation-B366F6?style=for-the-badge)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;

@@ -21,13 +21,19 @@ I am a Mechanical Engineer turned **Software Architect**. I design and build ful
   - Testing **Reify** and **AUN**, reporting and verifying fixes across releases.  
   - Building **automated tests for the SmartClient Showcase**, so examples are checked on every release.
 
-- **2025 – Present · Medialítica (Digital Process IT) · Lead Developer & Software Architect**  
-  Main developer and architect of the company's software products and client platforms.  
+- **2025 – Present · [Digital Process IT](https://www.digitalprocessit.com/) · Founder & Software Architect**  
+  My own software company. I design, build and run its products, starting with **PuntoCita**.  
   - Designed and built the **company platform** (Laravel): clients, contracts, quotes, invoices, billing follow-up and support tickets.  
-  - Built **automated tenant provisioning** for SaaS customers: signup requests, trial plans, test vs. production environments, and per-tenant SMTP and seeding.  
-  - Delivered websites and web apps for client brands across healthcare, beauty, tourism and consulting.
+  - Built **automated tenant provisioning** for SaaS customers: signup requests, trial plans, test vs. production environments, and per-tenant SMTP and seeding.
 
-- **2026 – Present · [PuntoCita](https://puntocita.com) · SaaS (Founder & Architect)**  
+- **2025 – Present · [Medialítica](https://medialitica.pe/) · Co-founder & Lead Developer**  
+  Digital marketing agency I run with a partner. I lead everything technical: client websites, online stores, integrations and handover.  
+  - Built websites and e-commerce for clients in food, retail, footwear, printing, flowers, industrial supply, medical distribution and manufacturing.  
+  - Custom **WordPress block themes** (`theme.json` brand tokens, no page builders), **WooCommerce** stores with card and Yape payments, and **Astro** sites, shipped through **GitHub Actions** to **Hostinger**.  
+  - Lead capture and compliance: chatbot and form leads synced to **Google Sheets** (Apps Script), Peru's virtual complaints book (*Libro de Reclamaciones*), WhatsApp contact routing, and **Google Ads / Tag Manager** conversion tracking.  
+  - Client handover: a Python tool that generates each client's **admin guide PDF** from a YAML file, plus branded thank-you graphics rendered from HTML with Playwright.
+
+- **2026 – Present · [PuntoCita](https://puntocita.com) · SaaS product of Digital Process IT (Founder & Architect)**  
   A **multi-tenant booking and business management SaaS** for service businesses: salons, nail studios, barbershops, dental clinics, podiatry, nutrition and therapy.  
   - Every business gets its own site (`yourbusiness.puntocita.com`) or connects its own domain, plus an admin panel to run the business.  
   - Online booking 24/7, staff schedules, multi-location agendas, automatic reminders and loyalty.  
@@ -71,13 +77,14 @@ Custom WordPress themes (block themes with `theme.json` brand tokens, no page bu
 - **Olimed** – redesign for a medical and pharmaceutical distributor: WooCommerce catalog with WhatsApp quote requests.
 - **OK Impresores** – print shop for offices and businesses, WooCommerce block theme with versioned releases.
 - **Mick** – women's footwear e-commerce, WooCommerce block theme with card and Yape payments.
-- **Cassado** – website theme maintenance, database deployments and Google Ads / Tag Manager conversion tracking fixes.
+- **[Cassadó](https://cassado.com.pe)** – industrial supplier celebrating 100 years: theme maintenance, product catalog, chatbot and form leads synced to Google Sheets, virtual complaints book, WhatsApp routing, Google Ads / Tag Manager conversion tracking, database deployments and an admin manual.
 - **Canelas** – online florist and gift shop.
-- **La Botella** and **Ledys** – product catalogs loaded from spreadsheets with their images.
+- **[La Botella](https://labotella.site)** and **[Ledy's](https://ledys.store)** – online stores with product catalogs loaded from spreadsheets with their images, plus admin guides for the owners.
 
 #### Tools
 
 - **Spanish video transcriptor** – local Python CLI using `faster-whisper` and FFmpeg to transcribe videos with timestamps.
+- **WordPress admin guide generator** – Python tool that turns a per-client YAML file into a branded PDF manual for managing their site.
 
 ## 🕓 Previously
 
@@ -175,7 +182,8 @@ Custom WordPress themes (block themes with `theme.json` brand tokens, no page bu
 <!--[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
 -->
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.digitalprocessit.com/)
+[<img src ="https://img.shields.io/badge/Digital_Process_IT-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.digitalprocessit.com/)
+[<img src ="https://img.shields.io/badge/Medialítica-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://medialitica.pe/)
 [<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:diegopevi05@gmail.com)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/diego10azul) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/diegopenavicente/)
